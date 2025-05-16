@@ -1,4 +1,4 @@
-# Repositório de Problemas de Algoritmos
+# JavaScript - Problemas de Algoritmos
 
 Este repositório contém soluções e explicações para diversos problemas de algoritmos, incluindo Recursão, Backtracking e Programação Dinâmica. Cada problema aborda cenários do mundo real e demonstra a aplicação de técnicas algorítmicas.
 
